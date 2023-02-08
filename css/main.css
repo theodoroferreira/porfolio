@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(255, 251, 233);
+}
+
+hr {
+    display: flex;
+    width: 20%;
+    color: rgb(173, 139, 115);
+    border-style: none;
+    border-top: dotted;
+    border-width: 5px;
+}
+
+h1 {
+    color: rgb(173, 139, 115);
+    display: flex;
+    position: relative;
+    margin: 0 auto;    
+    text-align: center;
+}
+
+a {
+    color: rgb(173, 139, 115);
+}
+
+table {
+    color: rgb(187, 225, 250);
+    position: relative;
+    margin: 0 auto;  
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    display: flex;
+    position: relative;
+    margin: auto;
+}
