@@ -8,7 +8,8 @@ hr {
     color: rgb(173, 139, 115);
     border-style: none;
     border-top: dotted;
-    border-width: 10px;
+    border-width: 5px;
+    appearance: none;
 }
 
 h1 {
